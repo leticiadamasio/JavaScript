@@ -20,4 +20,4 @@ console.log ("Estou mexendo no console.log")
 let quartaFeira = true
 
 // Exiba no console o tipo de dado da váriavel quartaFeira;
-console.log (quartaFeira)
+console.log (typeof quartaFeira)
